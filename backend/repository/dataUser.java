@@ -1,7 +1,6 @@
 package backend.repository;
 
 public class dataUser{
-
     private int id;
     private String nome;
     private String nascimento;
@@ -30,7 +29,5 @@ public class dataUser{
     }
     public void setRg(String rg) {
         this.rg = rg;
-    }
-    
-    
+    }   
 }
